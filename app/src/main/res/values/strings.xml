@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubIssues</string>
+    <string name="API_error_dialog">Having problem loading the issues</string>
+</resources>
